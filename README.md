@@ -1,6 +1,6 @@
 # Movie_Database
 
-Data Structures Advanced Retake Exam – Java
+Data Structures Advanced Exam – Java
 
 This document defines the exam preparation for "Data Structures – Advanced (Java)" course @ Software University.
 Please submit your solutions (source code) of all below described problems in Judge.
