@@ -1,6 +1,7 @@
-# Movie_Database
+# Data Structures Advanced Exam – Java
 
-Data Structures Advanced Exam – Java
+Movie_Database
+
 
 This document defines the exam preparation for "Data Structures – Advanced (Java)" course @ Software University.
 Please submit your solutions (source code) of all below described problems in Judge.
